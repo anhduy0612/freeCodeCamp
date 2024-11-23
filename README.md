@@ -134,6 +134,8 @@ Here are our twelve core certifications:
 
 #### 8. [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 xin chao
+
+abc
 - [Learn String Manipulation by Building a Cipher](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-string-manipulation-by-building-a-cipher)
 - [Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-how-to-work-with-numbers-and-strings-by-implementing-the-luhn-algorithm)
 - [Learn Lambda Functions by Building an Expense Tracker](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-lambda-functions-by-building-an-expense-tracker)
